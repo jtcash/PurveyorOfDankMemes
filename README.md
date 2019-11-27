@@ -14,6 +14,13 @@ In this project, I will be expanding upon the first-person camera controls and m
 
 
 
+### Creative Efforts
+
+I am thinking that most of my effort will go into a procedural modeling system to generate some interesting structures. Without something interesting to explore, there is not much of a point for smooth mouse-and-keyboard controls.
+
+[![Current State](https://i1.ytimg.com/vi/-WkusEeEhEo/hqdefault.jpg)](https://youtu.be/-WkusEeEhEo)
+
+
 You can use the [editor on GitHub](https://github.com/jtcash/PurveyorOfDankMemes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
