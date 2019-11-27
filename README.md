@@ -18,8 +18,11 @@ In this project, I will be expanding upon the first-person camera controls and m
 
 I am thinking that most of my effort will go into a procedural modeling system to generate some interesting structures. Without something interesting to explore, there is not much of a point for smooth mouse-and-keyboard controls.
 
-[![Current State](https://i1.ytimg.com/vi/-WkusEeEhEo/hqdefault.jpg)](https://youtu.be/-WkusEeEhEo)
 
+# Current State
+
+[![Current State](https://i1.ytimg.com/vi/-WkusEeEhEo/hqdefault.jpg)](https://youtu.be/-WkusEeEhEo)
+Click the above image to view the corresponding video.
 
 You can use the [editor on GitHub](https://github.com/jtcash/PurveyorOfDankMemes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
