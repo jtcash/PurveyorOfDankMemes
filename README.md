@@ -20,7 +20,16 @@ I am thinking that most of my effort will go into a procedural modeling system t
 
 
 # Current State
+I broke a few things while implementing Cubic Bezier patch surfaces, but hopefully I can get those up and running again.
+I'm having some bugs with my system to make buildings out of Bezier patches.
 
-[![Current State](https://i1.ytimg.com/vi/-WkusEeEhEo/hqdefault.jpg)](https://youtu.be/-WkusEeEhEo)
+![Current State](https://raw.githubusercontent.com/jtcash/PurveyorOfDankMemes/master/patch.jpg)
+
+#Previous State
+[![Previous State](https://i1.ytimg.com/vi/-WkusEeEhEo/hqdefault.jpg)](https://youtu.be/-WkusEeEhEo)
 
 Click the above image to view the corresponding video.
+
+
+
+
